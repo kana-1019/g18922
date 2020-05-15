@@ -5,6 +5,7 @@ public class Main {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("好きな食べ物は寿司です。");
 		System.out.println("理由は、魚が好きだからです。");
+		System.out.println("刺身も好きです。");
 
 	}
 
